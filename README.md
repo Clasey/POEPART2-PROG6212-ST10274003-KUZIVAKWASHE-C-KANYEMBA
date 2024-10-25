@@ -22,4 +22,4 @@ The **Contract Monthly Claim System (CMCS)** is a .NET WPF application designed 
 
 1. **Clone the Repository**:
    ```bash
-   git clone 
+   git clone https://github.com/Clasey/POEPART2-PROG6212-ST10274003-KUZIVAKWASHE-C-KANYEMBA.git
