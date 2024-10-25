@@ -23,3 +23,30 @@ The **Contract Monthly Claim System (CMCS)** is a .NET WPF application designed 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Clasey/POEPART2-PROG6212-ST10274003-KUZIVAKWASHE-C-KANYEMBA.git
+
+2. Open in Visual Studio: Open the .sln file in Visual Studio.
+
+3. Build the Solution: Go to Build > Build Solution or press Ctrl+Shift+B.
+
+4. Run the Application: Press F5 to start the application.
+
+Usage
+Login:
+
+Enter the credentials for a lecturer (default username: lecturer, password: password123) and click the Login button.
+Submit a Claim:
+
+Enter the hours worked and hourly rate in the respective text boxes.
+Click the Submit Claim button to calculate and submit the claim.
+A message will confirm if the claim was submitted successfully.
+Upload a Supporting Document:
+
+Click Upload Document to select a document file.
+Only .pdf, .docx, and .xlsx files up to 5MB are accepted.
+Approve or Reject a Claim:
+
+Select a claim from the list and click Approve or Reject to change the claim's status.
+The ListView will update to reflect the status change.
+Logout:
+
+Click the Yes button on the logout prompt to log out.
